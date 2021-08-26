@@ -1,0 +1,182 @@
+.menu-list {
+  font-family: 'Roboto', sans-serif;
+  margin-left: 0px;
+  margin-right: 115px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  color: #170C04;
+}
+
+
+
+
+.menu-icon {
+  margin-right: -7px;
+  padding-left: 30px;
+}
+
+.menu-icons {
+  margin-right: -7px;
+  padding-left: 30px;
+}
+
+.copilot-title {
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 100px;
+  line-height: 120px;
+  color: rgb(23, 12, 4);
+  width: 600px;
+  /* position: absolute;
+  z-index: 2;
+  right: 325px;
+  top: -10px; */
+}
+
+.copilot {
+  padding-bottom: 250px;
+}
+
+.copilot-btn {
+  padding: 15px 18px;
+  border-radius: 22px;
+  background-color: #E27B3A;
+
+}
+
+.copilot-btns {
+  padding: 15px 18px;
+  border-radius: 22px;
+  background-color: #E27B3A;
+
+}
+
+.dog {
+  right: -210px;
+  position: absolute;
+  top: -26px;
+  z-index: 2;
+}
+
+.shadow {
+  right: -248px;
+  position: absolute;
+  top: -175px;
+  z-index: 3
+}
+
+.suxoykorm {
+  margin-top: 80px;
+  width: 310px;
+  padding: 15px;
+}
+
+.foods-title {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 37px;
+  text-align: center;
+  color: #170C04;
+}
+
+.foods-txt {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  color: #170C04;
+  opacity: 0.6;
+}
+
+.food-span {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: #E27B3A;
+  text-align: center;
+  display: block;
+}
+
+.suxoykorm {
+  position: relative;
+}
+
+.korm {
+  left: 145px;
+  position: absolute;
+  top: -5px;
+}
+
+.korm2 {
+  left: -276px;
+  position: absolute;
+  top: -15px;
+}
+
+.banka {
+  right: 136px;
+  position: absolute;
+  top: -8px;
+}
+
+.all-footer {
+  margin-top: 40px;
+  background-color: black;
+  padding: 0 20px 0 20px;
+}
+
+.page1-list {
+  font-family: 'Roboto', sans-serif;
+  padding-top: 10px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  color: #FFFFFF;
+  opacity: 0.8;
+}
+
+.page3-list {
+  padding-top: 10px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: right;
+  color: #FFFFFF;
+  opacity: 0.8;
+}
+
+.icons {
+  margin-top: 90px;
+  margin-right: 10px;
+  padding-left: 10px;
+}
+
+.iconss {
+  margin-top: 90px;
+  margin-right: 240px;
+  padding-left: 10px;
+}
+
+.bori {
+  position: absolute;
+  top: 1080px;
+}
+
+
+
+
+
+
+/* font-family: 'Poppins', sans-serif; */
+/* font-family: 'Roboto', sans-serif; */
